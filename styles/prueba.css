@@ -1,0 +1,217 @@
+header{
+    width: 100%;
+}
+.titulo{
+    position: absolute;
+    top: 10%;
+    left: 12%;
+    font-size: 2rem;
+   
+}
+.imgportada{
+    position: absolute;
+    top: 5rem;
+    left: 10%;
+}
+#image {
+    background-color: rgba(0,0,0,0.8);
+    background-image:url(http://www.gelfuzion.com/img/slides/nivo/bg-1.jpg);
+    height: 52rem;
+    max-width: 100%;
+   filter:brightness(0.4);
+ }
+
+ /*estilos seccion*/
+ 
+ .contenedor{
+     background-color: rgb(202, 163, 238);
+     margin-top: 2rem;
+     width: 100%;
+ }
+ .descripcion{
+     padding-top: 4rem;
+     padding-bottom: 4rem;
+     font-size: 2rem;
+ }
+ .card{
+     margin-left: 1rem;
+     border-radius: 20% !important;
+     margin-bottom: 2rem !important;
+     
+ }
+ .logo{
+     width: 15rem;
+     height: 3rem;
+ }
+ .teams{
+     border-top-left-radius: 50% !important;
+     border-top-right-radius: 50% !important;
+ }
+ /*boton*/
+ 
+ .boton{
+     padding: 2rem !important;
+     border-radius: 50% !important;
+ }
+ .boton2{
+    padding-top: 1.5rem !important;
+    padding-bottom: 1.5rem !important;
+    padding-left: 3rem !important;
+    padding-right: 3rem !important;
+    border-radius: 45% !important;
+    font-size: 3rem;
+}
+
+/*caracteristicas*/
+
+.card{
+    border-color: #ffffff !important;
+}
+.caracter{
+    background-color: #ffffff;
+    width: 100%;
+}
+.titulo{
+    color: rgb(202, 163, 238);
+    font-size: 2.3rem;
+}
+
+.tarj{
+    height: 15rem !important;
+    
+    
+}
+.tarj2{
+    height: 15rem !important;
+    
+}
+.parrafotarj{
+    padding-top: 7rem;
+    padding-left: 3rem;
+    font-size: 1.7rem;
+}
+.parrafo2tarj{
+    padding-left: 3rem;
+    font-size: 1.8rem;
+}
+
+/*tarjetas 3 y 4*/
+
+.tarj3{
+    padding-top: 28rem;
+    
+}
+.tarj4{
+    padding-top: 28rem;
+    
+}
+.parrafo1tarj4{
+    padding-left: 3rem;
+    font-size: 1.8rem;
+    padding-top: 5rem;
+}
+.parrafo2tarj4{
+    padding-top: 1rem;
+    padding-left: 3rem;
+    font-size: 1.7rem;
+}
+/*tarjetas 5 y 6*/
+
+
+.parra1fotarj5{
+    padding-left: 3rem;
+    font-size: 1.8rem;
+    padding-top: 7rem;
+}
+.parrafo2tarj5{
+    padding-top: 1rem;
+    padding-left: 3rem;
+    font-size: 1.7rem;
+}
+.parrafo3tarj5{
+    padding-top: 1rem;
+    padding-left: 3rem;
+    font-size: 1.7rem;
+}
+/*tarjetas 6 y 7*/
+
+.parrafo1tarj8{
+    padding-left: 3rem;
+    font-size: 1.8rem;
+    padding-top: 7rem;
+}
+.parrafo2tarj8{
+    padding-top: 1rem;
+    padding-left: 3rem;
+    font-size: 1.7rem;
+}
+.letra{
+    padding-left: 4rem;
+}
+/*linea*/
+
+.linea{
+    width: 70%;
+
+}
+.boton2{
+    padding-bottom: 4rem !important;
+}
+/*apartado*/
+.apartado{
+    margin-top: 2rem;
+    color: rgba(0, 0, 0, 0.59);
+}
+/*boton2*/
+.boton2{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+ 
+}
+.botonDos{
+    border-top-left-radius: 35px !important;
+    border-top-right-radius: 35px !important;
+    border-bottom-right-radius: 35px !important;
+    border-bottom-left-radius: 35px !important;
+    padding: 1rem !important;
+    width: 20rem;
+    font-size: 1.4rem !important;
+    
+}
+
+/*barra*/
+.barra{
+    background-color: rgb(167, 99, 231) !important;
+    
+}
+.tituloBarra{
+    margin: 1rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans';
+}
+
+/*footer*/
+.pie{
+    background-color: black;
+    
+}
+.tarjetasFooter{
+    background-color: black;
+    border: transparent !important;
+}
+.sobre{
+    margin-top: 3rem;
+}
+
+.linea2 { 
+    
+    height: 5px; 
+    color: #ffffff !important; /* old IE */ 
+    background-color: #ffffff !important; /* Modern Browsers */ 
+}
+.copy{
+    background-color: black;
+    border: transparent !important;
+}
+.resaltado{
+    color: brown;
+}
